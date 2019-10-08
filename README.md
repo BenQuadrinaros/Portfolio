@@ -1,2 +1,2 @@
 # Portfolio
-Collection of projects
+Ben Rowland's collection of projects
