@@ -1,0 +1,454 @@
+{
+  "frames": {
+    "mountain1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "mountain3": {
+      "frame": {
+        "x": 0,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "mountain2": {
+      "frame": {
+        "x": 101,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "rav2": {
+      "frame": {
+        "x": 0,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "rav1": {
+      "frame": {
+        "x": 101,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "rav3": {
+      "frame": {
+        "x": 202,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "twister3": {
+      "frame": {
+        "x": 202,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "roll3": {
+      "frame": {
+        "x": 202,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "roll1": {
+      "frame": {
+        "x": 0,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "roll2": {
+      "frame": {
+        "x": 101,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "sink1": {
+      "frame": {
+        "x": 202,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "sink2": {
+      "frame": {
+        "x": 303,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "sink3": {
+      "frame": {
+        "x": 303,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "twister1": {
+      "frame": {
+        "x": 303,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing1": {
+      "frame": {
+        "x": 0,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing2": {
+      "frame": {
+        "x": 101,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing3": {
+      "frame": {
+        "x": 202,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing4": {
+      "frame": {
+        "x": 303,
+        "y": 404,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing5": {
+      "frame": {
+        "x": 404,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing6": {
+      "frame": {
+        "x": 404,
+        "y": 101,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "swing7": {
+      "frame": {
+        "x": 404,
+        "y": 202,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "twister2": {
+      "frame": {
+        "x": 404,
+        "y": 303,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "spritesheet.png",
+    "size": {
+      "w": 504,
+      "h": 504
+    },
+    "scale": 1
+  }
+}
